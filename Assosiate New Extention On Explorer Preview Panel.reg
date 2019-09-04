@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.py]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.conf]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.go]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.java]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.log]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.json]
+"PerceivedType"="text"
