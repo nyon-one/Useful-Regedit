@@ -17,3 +17,12 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\.json]
 "PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.yaml]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.yml]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.gitconfig]
+"PerceivedType"="text"
