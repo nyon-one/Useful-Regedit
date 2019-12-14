@@ -26,3 +26,10 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\.gitconfig]
 "PerceivedType"="text"
+
+
+[HKEY_CLASSES_ROOT\.sh]
+"PerceivedType"="text"
+
+[HKEY_CLASSES_ROOT\.ps1]
+"PerceivedType"="text"
